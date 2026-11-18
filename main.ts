@@ -1,6 +1,8 @@
 // news-image-20261117: copy the front-page image for 17 November 2026 to the
 // grader's output directory. Node 22, standard library only. The image is
-// entry.png beside this file; the output is always the same bytes.
+// entry.png beside this file (v4: 53 verified stories, 3-column grid, world
+// map, day-in-figures panel; built by build_frontpage_v4.py); the output is
+// always the same bytes.
 //
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
